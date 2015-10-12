@@ -1,4 +1,4 @@
-# EspoCRM Contributor License Agreement
+# EspoCRM Contributor License Agreement v1.0
 
 The purpose of this Contributor License Agreement (“CLA”) is to clarify and define the rights and obligations of you, as the contributor of certain code or works (your “Contribution”) to Letrium LTD, (“Letrium”) as the recipient of your Contribution, and inclusion in EspoCRM application by users of your Contribution (“Users”).
 
