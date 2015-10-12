@@ -8,7 +8,7 @@ To sign [EspoCRM Contributors License Agreement](https://github.com/espocrm/cla/
 
 * Create a new file in `contributors` directory named `your_github_account_name.md` with a following content:
 ```
-I hereby agree to the terms of the EspoCRM Contributor License Agreement.
+I hereby agree to the terms of the EspoCRM Contributor License Agreement v1.0.
 
 Today's Date
 
@@ -22,7 +22,7 @@ File: `contributors/john.md`
 
 Content:
 ```
-I hereby agree to the terms of the EspoCRM Contributor License Agreement.
+I hereby agree to the terms of the EspoCRM Contributor License Agreement v1.0.
 
 2015-12-25
 
