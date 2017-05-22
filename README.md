@@ -16,7 +16,7 @@ Your Name
 ```
 * Pull request it back.
 
-###Example
+### Example
 
 File: `contributors/john.md`
 
