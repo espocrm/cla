@@ -1,5 +1,5 @@
-I hereby agree to the terms of the EspoCRM Contributor License Agreement v1.0.
+I hereby agree to the terms of the EspoCRM Contributor License Agreement v2.0.
 
-02/01/2023
+06/12/2023
 
 Andrea Fontana
