@@ -1,5 +1,5 @@
-I hereby agree to the terms of the EspoCRM Contributor License Agreement v1.0.
+I hereby agree to the terms of the EspoCRM Contributor License Agreement v2.0.
 
-18.02.2022
+18.01.2024
 
 Renata Slupetska
